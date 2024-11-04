@@ -1,0 +1,31 @@
+/* #region Base */
+:root {
+  --main-color: #212121;
+  --alt-color: #2196f3;
+  --description-color: #757575;
+  --header-color: #ffffff;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background: var(--header-color);
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+.link {
+  text-decoration: none;
+}
+address {
+  font-style: normal;
+}
+button {
+  cursor: pointer;
+}
+/* #endregion */
+
+/* #region Common*/
