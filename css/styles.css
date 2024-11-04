@@ -1,14 +1,8 @@
 /* #region Base */
-:root {
-  --main-color: #212121;
-  --alt-color: #2196f3;
-  --description-color: #757575;
-  --header-color: #ffffff;
-}
 
 body {
   font-family: "Roboto", sans-serif;
-  background: ;
+  background: #ffffff;
   color: #434455;
 }
 a {
