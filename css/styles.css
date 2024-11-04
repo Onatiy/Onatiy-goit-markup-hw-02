@@ -33,7 +33,13 @@ button {
   letter-spacing: 0.03em;
   color: #4d5ae5;
 }
-
+.header-list-link {
+  color: #2e2f42;
+}
+.header-list-link:hover,
+.header-list-link:focus {
+  color: #404bbf;
+}
 .header-color-logo {
   color: #2e2f42;
 }
@@ -57,6 +63,13 @@ button {
 }
 .address:hover,
 .address:focus {
+  color: #404bbf;
+}
+.address-link {
+  color: #434455;
+}
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 /* #endregion */
