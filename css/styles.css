@@ -64,14 +64,13 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address:hover,
-.address:focus {
-  color: #404bbf;
-}
+
 .address-link {
   color: #434455;
 }
-.address-link:hover,
+.address-link:hover {
+  color: #404bbf;
+}
 .address-link:focus {
   color: #404bbf;
 }
@@ -134,6 +133,12 @@ button {
 .our-team-subtitle {
   font-size: 20px;
   font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.our-team-subhead {
+  font-weight: 500;
+  font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
